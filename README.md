@@ -1,6 +1,6 @@
 # Data Analyst 
 
-###Education
+### Education
 
 ### Work Experience 
 Customer Success Manager @ Agryco
