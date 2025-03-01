@@ -78,7 +78,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ---
 
-### 4. **Customer Reviews Analysis ** (In Progress)
+### 4. **Customer Reviews Analysis** - (Personal Project) (In Progress)
 
 **Objective:** Predicting a customer's rating for an order on an e-commerce website.
 This modeling project aims to identify the factors that can be optimized to improve product ratings on a e-commerce platform. This will ultimately attract more customers and enhance sales.
