@@ -1,13 +1,8 @@
-title : Manal JEWA
-logo: assets/Manal pdp.png
-description: Data Analyst 
 theme: jekyll-theme-minimal
-github:
-  owner_name: "Manal-art-coder"  # Tu peux changer ou supprimer le nom ici
-  owner_url: "https://github.com/Manal-art-coder"  # Si tu veux personnaliser le lien
-  repository_url: "https://github.com/Manal-art-coder/portfolio/tree/main"  # Lien vers ton dépôt GitHub
-  is_project_page: true  # Si c'est une page de projet
-  is_user_page: false   # Si c'est une page utilisateur
+logo: assets/Manal pdp.png
+title : Manal JEWA
+description: Data Analyst 
+
 
 
 
