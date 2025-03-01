@@ -60,6 +60,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 ### 3. Call Center Performance Analysis with Power BI - (Data Scientest Training) - January 2025
 
 **Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency. By cleaning and transforming raw data, I built a star schema model and created interactive dashboards with key performance indicators (KPIs) to support better decision-making.
+
 **Actions:**
 -Data cleaning and transformation using Power Query
 -Star schema modeling for efficient analysis
@@ -75,6 +76,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Objective:** Predicting a customer's rating for an order on an e-commerce website.
 This modeling project aims to identify the factors that can be optimized to improve product ratings on a e-commerce platform. This will ultimately attract more customers and enhance sales.
+
 **Actions**:
 -Extract and understand the data thoroughly.
 -Create clear and insightful data visualizations.
