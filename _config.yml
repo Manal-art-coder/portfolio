@@ -2,7 +2,11 @@ title : Manal JEWA
 logo: assets/Manal pdp.png
 description: Data Analyst 
 theme: jekyll-theme-minimal
-github:
-  url: "https://github.com/Manal-art-coder/portfolio"
-  maintainer: "Manal-art-coder"   # Ceci peut être utilisé pour personnaliser la phrase de mainteneur
+footer:
+   text: ""
+   github_url: "https://github.com/Manal-art-coder/portfolio"
+   maintainer: ""
+
+
+
 
