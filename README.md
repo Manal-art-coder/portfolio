@@ -13,7 +13,9 @@ I’m excited to apply these skills in a dynamic business environment, where I c
 ## Why Hire Me?
 
 - **Customer-Centric Analytical Expertise**: My background in **customer success** allows me to approach data analysis with a strong understanding of how to derive actionable insights that improve customer experiences and drive business outcomes.
+- 
 - **Hands-on Experience from DataScientest**: Through my formal training, I’ve gained hands-on experience in **SQL**, **Python**, **Power BI**, and **data visualization tools** to solve real-world business problems.
+- 
 - **Eager to Drive Business Growth**: I’m passionate about using data to uncover customer behavior patterns, optimize processes, and contribute to business success in **e-commerce** and **digital marketing**.
 
 ## Key Skills & Technologies
@@ -66,12 +68,10 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 ### 3. Call Center Performance Analysis with Power BI - (Data Scientest Training) - January 2025
 
 **Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency. By cleaning and transforming raw data, I built a star schema model and created interactive dashboards with key performance indicators (KPIs) to support better decision-making.
-
 **Actions:**
 -Data cleaning and transformation using Power Query
 -Star schema modeling for efficient analysis
 -Interactive Power BI dashboard with KPIs to evaluate service levels, revenue, and employee performance
-
 **Technologies Used:** Power BI, Power Query, Data Cleaning, Data Modeling
 
 **[Link to the project on GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
@@ -82,14 +82,12 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Objective:** Predicting a customer's rating for an order on an e-commerce website.
 This modeling project aims to identify the factors that can be optimized to improve product ratings on a e-commerce platform. This will ultimately attract more customers and enhance sales.
-
 **Actions**:
 -Extract and understand the data thoroughly.
 -Create clear and insightful data visualizations.
 -Enrich the dataset with additional variables.
 -Model the problem using appropriate algorithms.
 -Test and evaluate the model's performance.
-
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn
 
 **[Link to the project on GitHub (Coming soon)](#)**
