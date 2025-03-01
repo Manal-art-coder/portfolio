@@ -1,5 +1,7 @@
 title : Manal JEWA
 logo: assets/Manal pdp.png
 description: Data Analyst 
-
 theme : jekyll-theme-minimal
+# Customizing the site's URL and GitHub info (can add or modify)
+url: "https://github.com/Manal-art-coder/portfolio/tree/main"
+baseurl: "/"
