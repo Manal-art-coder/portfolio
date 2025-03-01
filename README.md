@@ -74,6 +74,8 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Technologies Used:** Power BI, Power Query, Data Cleaning, Data Modeling
 
+**[Link to the project on GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
+
 ---
 
 ### 4. **Customer Reviews Analysis ** (In Progress)
