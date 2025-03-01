@@ -41,9 +41,9 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
   
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn, Plotly
 
-**[[Link to the project on GitHub](https://github.com/Manal-art-coder/DataScientest_Project)]**
+**[Link to the project on GitHub](https://github.com/Manal-art-coder/DataScientest_Project)**
 
-**[[Link to the project on Streamlit](https://datascientestproject-bankmarketing.streamlit.app/)]**
+**[Link to the project on Streamlit](https://datascientestproject-bankmarketing.streamlit.app/)**
 
 ---
 
