@@ -12,11 +12,12 @@ I’m excited to apply these skills in a dynamic business environment, where I c
 ## Key Skills & Technologies 💻
 
 - **Data Analysis & Visualization**: Excel, Power BI, Tableau
-- **Programming Languages**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Programming Languages**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - **Data Cleaning & Preparation**: Data wrangling, handling missing data, data normalization
 - **Business Intelligence**: Creating interactive dashboards and reports
 - **Customer Analytics**: Customer segmentation, behavior analysis, KPIs
 - **Machine Learning**: Basic knowledge of Scikit-learn for predictive modeling
+- **Streamlit**: Building interactive web apps for data visualization and deployment 
 
 ## Data Projects 📊
 
@@ -63,6 +64,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 -Data cleaning and transformation using Power Query
 -Star schema modeling for efficient analysis
 -Interactive Power BI dashboard with KPIs to evaluate service levels, revenue, and employee performance
+
 **Technologies Used:** Power BI, Power Query, Data Cleaning, Data Modeling
 
 **[Link to the project on GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
@@ -79,6 +81,7 @@ This modeling project aims to identify the factors that can be optimized to impr
 -Enrich the dataset with additional variables.
 -Model the problem using appropriate algorithms.
 -Test and evaluate the model's performance.
+
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn
 
 **[Link to the project on GitHub (Coming soon)](#)**
