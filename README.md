@@ -62,9 +62,9 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 **Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency. By cleaning and transforming raw data, I built a star schema model and created interactive dashboards with key performance indicators (KPIs) to support better decision-making.
 
 **Actions:**
--Data cleaning and transformation using Power Query
--Star schema modeling for efficient analysis
--Interactive Power BI dashboard with KPIs to evaluate service levels, revenue, and employee performance
+- Data cleaning and transformation using Power Query.
+- Star schema modeling for efficient analysis.
+- Interactive Power BI dashboard with KPIs to evaluate service levels, revenue, and employee performance.
 
 **Technologies Used:** Power BI, Power Query, Data Cleaning, Data Modeling
 
@@ -74,15 +74,14 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ### 4. **Customer Reviews Analysis** - (Personal Project) (In Progress)
 
-**Objective:** Predicting a customer's rating for an order on an e-commerce website.
-This modeling project aims to identify the factors that can be optimized to improve product ratings on a e-commerce platform. This will ultimately attract more customers and enhance sales.
+**Objective:** This modeling project aims to identify the factors that can be optimized to improve product ratings on a e-commerce platform. This will ultimately attract more customers and enhance sales.
 
 **Actions**:
--Extract and understand the data thoroughly.
--Create clear and insightful data visualizations.
--Enrich the dataset with additional variables.
--Model the problem using appropriate algorithms.
--Test and evaluate the model's performance.
+- Extract and understand the data thoroughly.
+- Create clear and insightful data visualizations.
+- Enrich the dataset with additional variables.
+- Model the problem using appropriate algorithms.
+- Test and evaluate the model's performance.
 
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn
 
