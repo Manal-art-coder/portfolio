@@ -101,7 +101,7 @@ I am committed to building my data analyst skill set, and here are some areas I�
 
 - **Customer-Focused Analytical Expertise**: With my background in **customer success**, I understand the importance of driving customer-centric decisions through data.
 - **Quick Learner**: My training at **DataScientest** and practical project work have helped me rapidly acquire the core skills of data analysis, and I’m always looking for ways to improve.
-- **Passion for Data**: I’m eager to bring my analytical skills to a role in **e-commerce** or **digital marketing**, where I can leverage data to enhance customer experiences and drive business growth.
+- **Passion for Data**: I’m eager to bring my analytical skills to a role in **e-commerce**, **digital marketing**, **finance**, or other data-driven fields, where I can leverage data to enhance customer experiences and drive business growth.
 
 ## Contact Me
 
