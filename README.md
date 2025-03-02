@@ -1,13 +1,12 @@
-# Welcome to my Data Analyst portfolio! 
+# Welcome to my Data Analyst portfolio!
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, and I’m a **Data Analyst** with a passion for transforming raw data into actionable insights. After working in **customer success** at an agricultural e-commerce company, I leveraged data to improve customer satisfaction, enhance the user experience, and drive growth. Now, I am transitioning into a full-time data analyst role where I can apply my analytical skills to business challenges.
+Hi, I’m Manal JEWA, and I’m a **Data Analyst** with a passion for transforming raw data into actionable insights. After working in **customer success** at an agricultural e-commerce company, I leveraged my experience to delve into data analysis.
 
-I have recently completed the **Data Analysis program at DataScientest**, certified by **l'École des Mines de Paris**, where I mastered the core tools and techniques of data analysis, including **SQL**, **Python**, **Power BI**, and **data visualization**. This program has equipped me with the skills to solve real-world data problems, perform in-depth analysis, and communicate insights effectively.
+I have recently completed the **Data Analysis program at DataScientest**, certified by **l'École des Mines de Paris**, where I mastered the core tools and techniques of data analysis, including **SQL**, **Python**, and data visualization tools.
 
 I’m excited to apply these skills in a dynamic business environment, where I can help organizations leverage data to improve decision-making and drive business success.
-
 
 ## Key Skills & Technologies 💻
 
@@ -17,7 +16,7 @@ I’m excited to apply these skills in a dynamic business environment, where I c
 - **Business Intelligence**: Creating interactive dashboards and reports
 - **Customer Analytics**: Customer segmentation, behavior analysis, KPIs
 - **Machine Learning**: Basic knowledge of Scikit-learn for predictive modeling
-- **Streamlit**: Building interactive web apps for data visualization and deployment 
+- **Streamlit**: Building interactive web apps for data visualization and deployment
 
 ## Data Projects 📊
 
@@ -32,7 +31,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 - Preprocessed the data (handling missing values, encoding categorical variables, and normalizing features).
 - Modeled using multiple algorithms: Logistic Regression, Random Forest, and Gradient Boosting.
 - Best model: Random Forest with an F1-score of 85%.
-  
+
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn, Plotly
 
 **[Link to the project on GitHub](https://github.com/Manal-art-coder/DataScientest_Project)**
@@ -50,7 +49,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 - Identified top-selling products, periods of high demand, and segmented customers based on their revenue.
 - Calculated product return rate (9%) and recommended actions to reduce anomalies.
 - Automated key performance indicators (KPIs) using SQL and visualized the results in Power BI.
-  
+
 **Technologies Used:** SQL, Power BI
 
 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
@@ -59,7 +58,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ### 3. Call Center Performance Analysis with Power BI - (Data Scientest Training) - January 2025
 
-**Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency. By cleaning and transforming raw data, I built a star schema model and created interactive dashboards with key performance indicators (KPIs) to support better decision-making.
+**Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency.
 
 **Actions:**
 - Data cleaning and transformation using Power Query.
@@ -72,11 +71,11 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ---
 
-### 4. **Customer Reviews Analysis** - (Personal Project) (In Progress)
+### 4. Customer Reviews Analysis - (Personal Project) (In Progress)
 
-**Objective:** This modeling project aims to identify the factors that can be optimized to improve product ratings on a e-commerce platform. This will ultimately attract more customers and enhance sales.
+**Objective:** This modeling project aims to identify the factors that can be optimized to improve product ratings on an e-commerce platform. This will ultimately attract more customers and enhance sales.
 
-**Actions**:
+**Actions:**
 - Extract and understand the data thoroughly.
 - Create clear and insightful data visualizations.
 - Enrich the dataset with additional variables.
@@ -86,7 +85,6 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn
 
 **[Link to the project on GitHub (Coming soon)](#)**
-
 
 ## What’s Next in My Learning Journey? 🚀
 
@@ -101,7 +99,7 @@ I am committed to building my data analyst skill set, and here are some areas I�
 
 - **Customer-Focused Analytical Expertise**: With my background in **customer success**, I understand the importance of driving customer-centric decisions through data.
 - **Quick Learner**: My training at **DataScientest** and practical project work have helped me rapidly acquire the core skills of data analysis, and I’m always looking for ways to improve.
-- **Passion for Data**: I’m eager to bring my analytical skills to a role in **digital marketing**, **e-commerce**, **finance**, or other data-driven fields, where I can leverage data to enhance customer experiences and drive business growth.
+- **Passion for Data**: I’m eager to bring my analytical skills to a role in **digital marketing**, **e-commerce**, **finance**, or other data-driven fields, where I can leverage data to enhance customer experiences and drive business success.
 
 ## Contact Me
 
@@ -115,8 +113,4 @@ I would love to discuss how I can contribute to your organization’s data needs
 
 ## Thank You!
 
-Thank you for visiting my portfolio. I’m excited to continue learning and growing in the field of data analysis. Please don’t hesitate to get in touch for potential opportunities, feedback, or collaboration.
-
-
-
-
+Thank you for visiting my portfolio. I’m excited to continue learning and growing in the field of data analysis. Please don’t hesitate to get in touch for potential opportunities, feedback, or collaborations.
