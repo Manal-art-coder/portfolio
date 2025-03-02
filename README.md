@@ -2,7 +2,7 @@
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, and I’m a **Data Analyst** with a passion for transforming raw data into actionable insights. After working in **customer success** at an agricultural e-commerce company, I leveraged my experience to delve into data analysis.
+Hi, I’m Manal JEWA, and I’m a **Data Analyst** with a passion for transforming raw data into actionable insights. After working in **customer success** at an agricultural e-commerce company, I leveraged data to improve customer satisfaction, enhance the user experience, and drive growth. Now, I am transitioning into a full-time data analyst role where I can apply my analytical skills to business challenges.
 
 I have recently completed the **Data Analysis program at DataScientest**, certified by **l'École des Mines de Paris**, where I mastered the core tools and techniques of data analysis, including **SQL**, **Python**, and data visualization tools.
 
@@ -65,7 +65,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 - Star schema modeling for efficient analysis.
 - Interactive Power BI dashboard with KPIs to evaluate service levels, revenue, and employee performance.
 
-**Technologies Used:** Power BI, Power Query, Data Cleaning, Data Modeling
+**Technologies Used:** Power BI, Power Query, Dax.
 
 **[Link to the project on GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
 
