@@ -2,9 +2,9 @@
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, and I’m a **Data Analyst** with a passion for transforming raw data into actionable insights. After working in **customer success** at an agricultural e-commerce company, I leveraged data to improve customer satisfaction, enhance the user experience, and drive growth. Now, I am transitioning into a full-time data analyst role where I can apply my analytical skills to business challenges.
+Hi, I’m Manal JEWA, a **Data Analyst** with a background in **customer success** at an agricultural e-commerce company. I’ve used data to improve customer satisfaction, enhance the user experience, and drive growth. Now, I’m looking to transition into a full-time data analyst role.
 
-I have recently completed the **Data Analysis program at DataScientest**, certified by **l'École des Mines de Paris**, where I mastered the core tools and techniques of data analysis, including **SQL**, **Python**, and data visualization tools.
+I recently completed the Data Analysis program at **DataScientest**, certified by **l’École des Mines de Paris**, where I learned the core tools and techniques of data analysis, including **SQL**, **Python**, and **data visualization** tools.
 
 I’m excited to apply these skills in a dynamic business environment, where I can help organizations leverage data to improve decision-making and drive business success.
 
@@ -99,7 +99,7 @@ I am committed to building my data analyst skill set, and here are some areas I�
 
 - **Customer-Focused Analytical Expertise**: With my background in **customer success**, I understand the importance of driving customer-centric decisions through data.
 - **Quick Learner**: My training at **DataScientest** and practical project work have helped me rapidly acquire the core skills of data analysis, and I’m always looking for ways to improve.
-- **Passion for Data**: I’m eager to bring my analytical skills to a role in **digital marketing**, **e-commerce**, **finance**, or other data-driven fields, where I can leverage data to enhance customer experiences and drive business success.
+- **Passion for Data**: I’m eager to bring my analytical skills to a role in **digital marketing**, **e-commerce**, **finance**, or other data-driven fields, where I can  help organizations use data to make better decisions and grow.
 
 ## Contact Me
 
