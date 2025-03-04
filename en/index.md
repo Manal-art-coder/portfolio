@@ -1,9 +1,10 @@
 ---
 layout: default
 lang: en
-title: "My Portfolio"
-permalink: /en/
+title: "Welcome to My Portfolio"
 ---
+
+{% include_relative README.md %}
 
 
 
