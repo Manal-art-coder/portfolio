@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 logo: asset/Picture3.png
 title : Manal JEWA
-#description: Data Analyst 
+default_lang: "en"  
+languages: ["en", "fr"]  
 
 
 
