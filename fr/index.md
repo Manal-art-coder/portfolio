@@ -124,4 +124,4 @@ Je serais ravi d’échanger sur vos besoins en data analysis et de discuter de 
 ## Merci !
 
 Merci d’avoir visité mon portfolio ! Je suis enthousiaste à l’idée de continuer à apprendre et évoluer dans le domaine de l’analyse de données.
-N’hésitez pas à me contacter pour toute opportunité, suggestion ou collaboration ! 😊
+N’hésitez pas à me contacter pour toute opportunité, suggestion ou collaboration ! 
