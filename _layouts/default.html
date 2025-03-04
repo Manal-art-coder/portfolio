@@ -25,10 +25,19 @@
 
         <!-- Bouton pour changer de langue -->
         {% assign other_lang = "fr" %}
+        {% assign lang_path = "" %}
         {% if lang == "fr" %}
           {% assign other_lang = "en" %}
+          {% assign lang_path = "/" %}
+        {% else %}
+          {% assign lang_path = "/fr/" %}
         {% endif %}
-        <p><a href="/{{ other_lang }}/">{{ site.data.translations[other_lang].switch_lang }}</a></p>
+
+        <p>
+          <a href="{{ lang_path | relative_url }}" class="lang-switch">
+            🌍 {{ site.data.translations[other_lang].switch_lang }}
+          </a>
+        </p>
       </header>
 
       <section>
@@ -40,5 +49,4 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
-</html>
+  
