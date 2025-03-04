@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Manal JEWA"
 logo: /asset/Picture3.png
+description: Data Analyst
 default_lang: "en"
 languages:
   en: "English"
