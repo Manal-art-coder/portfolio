@@ -6,9 +6,9 @@ title: "Bienvenue sur mon Portfolio"
 
 ## À propos de moi 🙂
 
-Bonjour, je suis Manal JEWA, une **Data Analyst** avec une expérience en **customer success** dans une entreprise d’e-commerce agricole. J’ai utilisé les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et stimuler la croissance. Aujourd’hui, je cherche à évoluer vers un poste de Data Analyst à plein temps.
+Bonjour, je suis Manal JEWA, **Data Analyst** avec une expérience en **customer success** dans une entreprise d’e-commerce agricole. J’ai utilisé les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et stimuler la croissance. Aujourd’hui, je cherche à évoluer vers un poste de Data Analyst à plein temps.
 
-J’ai récemment complété le programme de Data Analyst chez DataScientest, certifié par l’École des Mines de Paris, où j’ai appris les outils et techniques essentiels de l’analyse de données, notamment **SQL**, **Pythonµ* et les outils de **visualisation** de données.
+J’ai récemment complété le programme de Data Analyst chez DataScientest, certifié par l’École des Mines de Paris, où j’ai appris les outils et techniques essentiels de l’analyse de données, notamment **SQL**, **Python** et les outils de **visualisation de données**.
 
 Je suis enthousiaste à l’idée d’appliquer ces compétences dans un environnement dynamique, afin d’aider les entreprises à exploiter les données pour optimiser leur prise de décision et assurer leur succès.
 
@@ -37,7 +37,7 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 - Modélisation avec plusieurs algorithmes : Régression Logistique, Random Forest, Gradient Boosting
 - Meilleur modèle : Random Forest avec un F1-score de 85%
 
-**🔹 Technologies utilisées** : Python, Scikit-learn, Matplotlib, Seaborn, Plotly
+**Technologies utilisées** : Python, Scikit-learn, Matplotlib, Seaborn, Plotly
 
 🔗 **[Lien vers le projet sur GitHub](https://github.com/Manal-art-coder/DataScientest_Project)**
 
@@ -57,7 +57,7 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 - Calcul du taux de retour des produits (9%) et recommandations pour réduire les anomalies
 - Automatisation des KPIs clés avec SQL et visualisation des résultats sur Power BI
 
-**🔹 Technologies utilisées** : SQL, Power BI
+**Technologies utilisées** : SQL, Power BI
 
 🔗 **[Lien vers le projet sur GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
 
@@ -73,7 +73,7 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 - Modélisation en schéma en étoile pour optimiser l’analyse
 - Création d’un tableau de bord interactif intégrant des KPIs pour évaluer les niveaux de service et les performances des agents
 
-**🔹 Technologies utilisées** : Power BI, Power Query, DAX
+**Technologies utilisées** : Power BI, Power Query, DAX
 
 🔗 **[Lien vers le projet sur GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
 
@@ -91,13 +91,13 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 - Modélisation du problème avec des algorithmes adaptés
 - Test et évaluation des performances du modèle
 
-**🔹 Technologies utilisées** : Python, Scikit-learn, Matplotlib, Seaborn
+**Technologies utilisées** : Python, Scikit-learn, Matplotlib, Seaborn
 
 🔗 **[Lien vers le projet sur GitHub (bientôt disponible)]**
 
 ## Prochaines étapes dans mon apprentissage 🚀
 
-Je suis engagé dans une amélioration continue de mes compétences en data analysis. Voici les domaines sur lesquels je me concentre actuellement :
+Je suis engagé dans une amélioration continue de mes compétences en data analysis. Voici les domaines sur lesquels je me concentre actuellement:
 
 - **Maîtrise avancée de SQL** : Optimisation des requêtes et gestion de grands ensembles de données
 - **Visualisation avancée** : Approfondissement de Tableau et Power BI pour des dashboards encore plus dynamiques
