@@ -15,10 +15,15 @@
 
     <div class="wrapper">
       <header>
-        <h1>{{ site.data.translations[lang].welcome }}</h1>
-
+        <!-- Affichage du nom et prénom sur l'image -->
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
+          <div style="position: relative; display: inline-block;">
+            <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 100%;">
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                        color: white; font-size: 24px; font-weight: bold; text-shadow: 2px 2px 5px black;">
+              {{ site.title }}
+            </div>
+          </div>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -31,7 +36,15 @@
           {% assign lang_path = "/en/" %}
         {% endif %}
 
-        <p><a href="{{ lang_path | relative_url }}">{{ site.data.translations[other_lang].switch_lang }}</a></p>
+        <p>
+          <a href="{{ lang_path | relative_url }}">
+            {% if lang == "en" %}
+              Switch to French
+            {% else %}
+              Passer à l'anglais
+            {% endif %}
+          </a>
+        </p>
       </header>
 
       <section>
