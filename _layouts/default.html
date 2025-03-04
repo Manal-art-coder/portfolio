@@ -7,7 +7,7 @@
 
     {% seo %}
 
-    <!-- Correction du chemin vers le CSS -->
+    <!-- Correction du chemin CSS -->
     <link rel="stylesheet" href="{{ "/asset/css/style.css" | relative_url }}">
 
     {% include head-custom.html %}
@@ -18,12 +18,10 @@
     <div class="container">
       <header>
         <!-- Affichage du logo et du titre -->
-        {% if site.logo %}
-          <div class="logo-container">
-            <img src="{{ site.logo | relative_url }}" alt="Logo" class="logo">
-            <div class="site-title">{{ site.title }}</div>
-          </div>
-        {% endif %}
+        <div class="logo-container">
+          <img src="{{ "/asset/Picture3.png" | relative_url }}" alt="Logo" class="logo">
+          <div class="site-title">{{ site.title }}</div>
+        </div>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -46,8 +44,4 @@
       </main>
 
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-  </body>
-</html>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github
