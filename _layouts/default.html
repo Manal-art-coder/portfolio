@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.default_lang }}">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,80 +7,71 @@
 
     {% seo %}
 
-    <!-- Correction du chemin CSS -->
-    <link rel="stylesheet" href="{{ "/asset/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
 
     {% include head-custom.html %}
   </head>
   <body>
     {% assign lang = page.lang | default: site.default_lang %}
-
-    <div class="container">
+    <div class="wrapper">
       <header>
-        <!-- Affichage du logo et du titre -->
-        <div class="logo-container">
-          <img src="{{ "/asset/Picture3.png" | relative_url }}" alt="Logo" class="logo">
-          <div class="site-title">{{ site.title }}</div>
-        </div>
+        <h1>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+        </h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Logo" />
+        {% endif %}
 
-        <!-- Bouton pour changer de langue -->
-        {% assign other_lang = "fr" %}
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+          <p class="view">
+            <a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a>
+          </p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+          <p class="view">
+            <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+          </p>
+        {% endif %}
+
+        {% if site.show_downloads %}
+          <ul class="downloads">
+            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+          </ul>
+        {% endif %}
+
+        <!-- Bouton de changement de langue -->
         {% assign lang_path = "/fr/" %}
         {% assign switch_text = "Passer au français" %}
 
         {% if lang == "fr" %}
-          {% assign other_lang = "en" %}
           {% assign lang_path = "/en/" %}
           {% assign switch_text = "Switch to English" %}
         {% endif %}
 
-        <p><a class="lang-switch" href="{{ lang_path | relative_url }}">{{ switch_text }}</a></p>
+        <p>
+          <a class="lang-switch" href="{{ lang_path | relative_url }}">{{ switch_text }}</a>
+        </p>
       </header>
 
-      <main>
+      <section>
         {{ content }}
-      </main>
+      </section>
 
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
 
-    <style>
-      /* Ajout de styles pour améliorer la structure */
-      .container {
-        max-width: 800px;
-        margin: auto;
-        text-align: center;
-      }
-      .logo-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-      }
-      .logo {
-        max-width: 150px;
-        height: auto;
-      }
-      .site-title {
-        font-size: 24px;
-        font-weight: bold;
-        margin-top: 10px;
-      }
-      .lang-switch {
-        display: inline-block;
-        margin-top: 10px;
-        padding: 5px 10px;
-        background: #007bff;
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-      }
-      .lang-switch:hover {
-        background: #0056b3;
-      }
-    </style>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
