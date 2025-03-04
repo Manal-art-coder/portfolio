@@ -1,9 +1,12 @@
 theme: jekyll-theme-minimal
-logo: assets/images/Picture3.png
 title: "Manal JEWA"
+logo: /assets/Picture3.png
+
+# Ajout de la gestion multilingue
 default_lang: "en"
-# Définition des langues disponibles
-languages: ["en", "fr"]
+languages:
+  en: "English"
+  fr: "Français"
 
 
 
