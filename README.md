@@ -106,7 +106,9 @@ I am committed to building my data analyst skill set, and here are some areas I�
 I would love to discuss how I can contribute to your organization’s data needs. Feel free to reach out to me through the following:
 
 📧 **Email:** manal.jewa@gmail.com
+
 🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/manaljewa/)
+
 🔗 **GitHub:** [My GitHub Profile](https://github.com/Manal-art-coder)
 
 ---
