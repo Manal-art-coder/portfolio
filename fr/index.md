@@ -3,6 +3,7 @@ layout: default
 lang: fr
 title: "Bienvenue sur mon Portfolio"
 ---
+# Bienvenue sur mon portfolio de Data Analyst !
 
 ## À propos de moi 🙂
 
@@ -16,7 +17,7 @@ Je suis enthousiaste à l’idée d’appliquer ces compétences dans un environ
 
 - **Analyse de données & Visualisation** : Excel, Power BI, Tableau
 - **Langages de programmation**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- **Nettoyage & Préparation des données**: Data wrangling, gestion des valeurs manquantes, normalisation des données
+- **Nettoyage & Préparation des données**: Gestion des valeurs manquantes, normalisation des données
 - **Business Intelligence**: Création de tableaux de bord interactifs et de rapports
 - **Analyse Client**: Segmentation client, analyse comportementale, suivi des KPIs
 - **Machine Learning (Bases)**: Modélisation prédictive avec Scikit-learn
