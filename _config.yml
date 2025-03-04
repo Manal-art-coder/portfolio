@@ -1,8 +1,11 @@
 theme: jekyll-theme-minimal
 logo: asset/Picture3.png
 title: Manal JEWA
-default_lang: en
+default_lang: "en"
+# Ajout du support multilingue
 languages: ["en", "fr"]
+permalink: pretty
+
 
 
 
