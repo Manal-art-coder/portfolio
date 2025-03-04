@@ -23,12 +23,15 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!-- Bouton pour changer de langue -->
+        <!-- Détection de la langue actuelle et bouton de changement -->
         {% assign other_lang = "fr" %}
+        {% assign lang_path = "/fr/" %}
         {% if lang == "fr" %}
           {% assign other_lang = "en" %}
+          {% assign lang_path = "/en/" %}
         {% endif %}
-        <p><a href="/{{ other_lang }}/">{{ site.data.translations[other_lang].switch_lang }}</a></p>
+
+        <p><a href="{{ lang_path | relative_url }}">{{ site.data.translations[other_lang].switch_lang }}</a></p>
       </header>
 
       <section>
