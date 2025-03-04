@@ -34,9 +34,9 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn, Plotly
 
-**[Link to the project on GitHub](https://github.com/Manal-art-coder/DataScientest_Project)**
+🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/DataScientest_Project)**
 
-**[Link to the project on Streamlit](https://datascientestproject-bankmarketing.streamlit.app/)**
+🔗 **[Link to the project on Streamlit](https://datascientestproject-bankmarketing.streamlit.app/)**
 
 ---
 
@@ -52,7 +52,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Technologies Used:** SQL, Power BI
 
-**[Link to the project on GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
+🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
 
 ---
 
@@ -67,7 +67,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Technologies Used:** Power BI, Power Query, Dax.
 
-**[Link to the project on GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
+🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/PowerBI-CallCenter)**
 
 ---
 
@@ -84,7 +84,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 **Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn
 
-**[Link to the project on GitHub (Coming soon)](#)**
+🔗 **[Link to the project on GitHub (Coming soon)](#)**
 
 ## What’s Next in My Learning Journey? 🚀
 
@@ -101,13 +101,13 @@ I am committed to building my data analyst skill set, and here are some areas I�
 - **Quick Learner**: My training at **DataScientest** and practical project work have helped me rapidly acquire the core skills of data analysis, and I’m always looking for ways to improve.
 - **Passion for Data**: I’m eager to bring my analytical skills to a role in **digital marketing**, **e-commerce**, **finance**, or other data-driven fields, where I can  help organizations use data to make better decisions and grow.
 
-## Contact Me
+## Contact Me 📩
 
 I would love to discuss how I can contribute to your organization’s data needs. Feel free to reach out to me through the following:
 
-- **Email:** manal.jewa@gmail.com
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/manaljewa/)
-- **GitHub:** [My GitHub Profile](https://github.com/Manal-art-coder)
+📧 **Email:** manal.jewa@gmail.com
+🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/manaljewa/)
+🔗 **GitHub:** [My GitHub Profile](https://github.com/Manal-art-coder)
 
 ---
 
