@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
     {% include head-custom.html %}
   </head>
@@ -18,7 +17,7 @@
         <!-- Affichage du nom et prénom sur l'image -->
         {% if site.logo %}
           <div style="position: relative; display: inline-block;">
-            <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 100%;">
+            <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 100%; max-width: 400px;">
             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                         color: white; font-size: 24px; font-weight: bold; text-shadow: 2px 2px 5px black;">
               {{ site.title }}
@@ -30,20 +29,17 @@
 
         <!-- Détection de la langue actuelle et bouton de changement -->
         {% assign other_lang = "fr" %}
-        {% assign lang_path = "/fr/" %}
+        {% assign lang_path = "fr/index.html" %}
+        {% assign switch_text = "Passer au français" %}
+
         {% if lang == "fr" %}
           {% assign other_lang = "en" %}
-          {% assign lang_path = "/en/" %}
+          {% assign lang_path = "en/index.html" %}
+          {% assign switch_text = "Switch to English" %}
         {% endif %}
 
         <p>
-          <a href="{{ lang_path | relative_url }}">
-            {% if lang == "en" %}
-              Switch to French
-            {% else %}
-              Passer à l'anglais
-            {% endif %}
-          </a>
+          <a href="{{ lang_path | relative_url }}">{{ switch_text }}</a>
         </p>
       </header>
 
@@ -55,6 +51,5 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
