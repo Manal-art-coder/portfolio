@@ -33,10 +33,10 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 
 **Actions menées :**
 
-- Analyse exploratoire des données (EDA) sur un jeu de données de 11 162 lignes et 17 variables
-- Pré-traitement des données : gestion des valeurs manquantes, encodage des variables catégorielles, normalisation des caractéristiques
-- Modélisation avec plusieurs algorithmes : Régression Logistique, Random Forest, Gradient Boosting
-- Meilleur modèle : Random Forest avec un F1-score de 85%
+- Analyse exploratoire des données (EDA) sur un jeu de données de 11 162 lignes et 17 variables.
+- Pré-traitement des données : gestion des valeurs manquantes, encodage des variables catégorielles, normalisation.
+- Modélisation avec plusieurs algorithmes : Régression Logistique, Random Forest, Gradient Boosting.
+- Meilleur modèle : Random Forest avec un F1-score de 85%.
 
 **Technologies utilisées** : Python, Scikit-learn, Matplotlib, Seaborn, Plotly
 
@@ -53,10 +53,10 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 
 **Actions menées :**
 
-- Analyse de 500 000 transactions issues du dataset Online Retail
-- Identification des produits les plus vendus, des périodes de forte demande, et segmentation des clients en fonction de leur chiffre d’affaires
-- Calcul du taux de retour des produits (9%) et recommandations pour réduire les anomalies
-- Automatisation des KPIs clés avec SQL et visualisation des résultats sur Power BI
+- Analyse de 500 000 transactions issues du dataset Online Retail.
+- Identification des produits les plus vendus, des périodes de forte demande, et segmentation des clients en fonction de leur chiffre d’affaires.
+- Calcul du taux de retour des produits (9%) et recommandations pour réduire les anomalies.
+- Automatisation des KPIs clés avec SQL et visualisation des résultats sur Power BI.
 
 **Technologies utilisées** : SQL, Power BI
 
@@ -70,9 +70,9 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 
 **Actions menées** :
 
-- Nettoyage et transformation des données avec Power Query
-- Modélisation en schéma en étoile pour optimiser l’analyse
-- Création d’un tableau de bord interactif intégrant des KPIs pour évaluer les niveaux de service et les performances des agents
+- Nettoyage et transformation des données avec Power Query.
+- Modélisation en schéma en étoile pour optimiser l’analyse.
+- Création d’un tableau de bord interactif intégrant des KPIs pour évaluer les niveaux de service et les performances des agents.
 
 **Technologies utilisées** : Power BI, Power Query, DAX
 
@@ -86,11 +86,11 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 
 **Actions menées** :
 
-- Extraction et compréhension des données
-- Création de visualisations claires et exploitables
-- Enrichissement du dataset avec de nouvelles variables
-- Modélisation du problème avec des algorithmes adaptés
-- Test et évaluation des performances du modèle
+- Extraction et compréhension des données.
+- Création de visualisations claires et exploitables.
+- Enrichissement du dataset avec de nouvelles variables.
+- Modélisation du problème avec des algorithmes adaptés.
+- Test et évaluation des performances du modèle.
 
 **Technologies utilisées** : Python, Scikit-learn, Matplotlib, Seaborn
 
@@ -98,21 +98,21 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 
 ## Prochaines étapes dans mon apprentissage 🚀
 
-Je suis engagé dans une amélioration continue de mes compétences en data analysis. Voici les domaines sur lesquels je me concentre actuellement:
+Je suis engagée dans une amélioration continue de mes compétences en data analysis. Voici les domaines sur lesquels je me concentre actuellement:
 
-- **Maîtrise avancée de SQL** : Optimisation des requêtes et gestion de grands ensembles de données
-- **Visualisation avancée** : Approfondissement de Tableau et Power BI pour des dashboards encore plus dynamiques
-- **Machine Learning appliqué** : Développement de modèles prédictifs pour résoudre des problèmes concrets
-- **Data Storytelling** : Apprentissage des techniques pour communiquer des insights clairs et impactants aux parties prenantes
+- **Maîtrise avancée de SQL** : Optimisation des requêtes et gestion de grands ensembles de données.
+- **Visualisation avancée** : Approfondissement de Tableau et Power BI pour des dashboards encore plus dynamiques.
+- **Machine Learning appliqué** : Développement de modèles prédictifs pour résoudre des problèmes concrets.
+- **Data Storytelling** : Apprentissage des techniques pour communiquer des insights clairs et impactants aux parties prenantes.
 
 ## Pourquoi je suis un bon choix pour votre équipe 🤝
 
 - **Une expertise analytique centrée sur le client** : Grâce à mon expérience en customer success, je sais combien il est crucial de prendre des décisions orientées client grâce aux données.
 - **Capacité d’apprentissage rapide** : Ma formation chez DataScientest et mes projets concrets m’ont permis d’acquérir rapidement des compétences solides en analyse de données.
-- **Passion pour la data** : Je suis motivé à appliquer mes compétences analytiques dans des domaines comme le marketing digital, l’e-commerce ou la finance, pour aider les entreprises à prendre des décisions éclairées et à se développer.
+- **Passion pour la data** : Je suis motivée à appliquer mes compétences analytiques dans des domaines comme le marketing digital, l’e-commerce ou la finance, pour aider les entreprises à prendre des décisions éclairées et à se développer.
 
 ## Me contacter 📩
-Je serais ravi d’échanger sur vos besoins en data analysis et de discuter de la façon dont je peux contribuer à votre organisation. N’hésitez pas à me contacter via :
+Je serais ravie d’échanger sur vos besoins en data analysis et de discuter de la façon dont je peux contribuer à votre organisation. N’hésitez pas à me contacter via :
 
 📧 **Email** : manal.jewa@gmail.com
 
@@ -125,4 +125,5 @@ Je serais ravi d’échanger sur vos besoins en data analysis et de discuter de 
 ## Merci !
 
 Merci d’avoir visité mon portfolio ! Je suis enthousiaste à l’idée de continuer à apprendre et évoluer dans le domaine de l’analyse de données.
+
 N’hésitez pas à me contacter pour toute opportunité, suggestion ou collaboration ! 
