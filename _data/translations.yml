@@ -1,5 +1,8 @@
 en:
-  switch_lang: "Switch to French"
+  welcome: "Welcome to my Data Analyst portfolio!"
+  switch_lang: "🇫🇷 Switch to French"
 
 fr:
-  switch_lang: "Passer à l'anglais"
+  welcome: "Bienvenue sur mon portfolio de Data Analyst !"
+  switch_lang: "🇬🇧 Passer à l'anglais"
+
