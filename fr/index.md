@@ -1,11 +1,11 @@
 ---
 layout: default
 lang: fr
-title: "Mon Portfolio"
-permalink: /fr/
+title: "Bienvenue sur mon Portfolio"
 ---
 
-{% include_relative ../README_fr.md %}
+{% include_relative README_fr.md %}
+
 
 
 
