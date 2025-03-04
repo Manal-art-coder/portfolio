@@ -3,7 +3,7 @@ layout: default
 lang: fr
 title: "Bienvenue sur mon Portfolio"
 ---
-# Bienvenue sur mon portfolio de Data Analyst !
+# Bienvenue sur mon portfolio !
 
 ## À propos de moi 🙂
 
