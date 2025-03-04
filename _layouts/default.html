@@ -29,17 +29,17 @@
 
         <!-- Détection de la langue actuelle et bouton de changement -->
         {% assign other_lang = "fr" %}
-        {% assign lang_path = "/fr/index.html" %}
+        {% assign lang_path = "/fr/" %}
         {% assign switch_text = "Passer au français" %}
 
         {% if lang == "fr" %}
           {% assign other_lang = "en" %}
-          {% assign lang_path = "/en/index.html" %}
+          {% assign lang_path = "/en/" %}
           {% assign switch_text = "Switch to English" %}
         {% endif %}
 
         <p>
-          <a href="{{ lang_path }}">{{ switch_text }}</a>
+          <a href="{{ lang_path | relative_url }}">{{ switch_text }}</a>
         </p>
       </header>
 
