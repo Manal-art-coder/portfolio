@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 logo: assets/images/Picture3.png
 title: "Manal JEWA"
 default_lang: "en"
-
 # Définition des langues disponibles
 languages: ["en", "fr"]
 
