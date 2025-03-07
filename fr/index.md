@@ -7,9 +7,9 @@ title: "Bienvenue sur mon Portfolio"
 
 ## À propos de moi 🙂
 
-Bonjour, je suis Manal JEWA, **Data Analyst** avec une expérience en **customer success** dans une entreprise d’e-commerce agricole. J’ai utilisé les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et stimuler la croissance. Aujourd’hui, je cherche à évoluer vers un poste de Data Analyst à plein temps.
+Bonjour, je suis Manal JEWA, **Data Analyst** avec une expérience en **Customer Success** dans une entreprise d’e-commerce agricole. J’ai utilisé les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et stimuler la croissance. Aujourd’hui, je cherche à évoluer vers un poste de Data Analyst à plein temps.
 
-J’ai récemment complété le programme de Data Analyst chez DataScientest, certifié par l’École des Mines de Paris, où j’ai appris les outils et techniques essentiels de l’analyse de données, notamment **SQL**, **Python** et les outils de **visualisation de données**.
+J’ai récemment complété la formation de Data Analyst chez DataScientest, certifiée par l’École des Mines de Paris, où j’ai appris les outils et techniques essentiels de l’analyse de données, notamment **SQL**, **Python** et les outils de **visualisation de données**.
 
 Je suis enthousiaste à l’idée d’appliquer ces compétences dans un environnement dynamique, afin d’aider les entreprises à exploiter les données pour optimiser leur prise de décision et assurer leur succès.
 
@@ -53,7 +53,7 @@ Voici quelques projets qui illustrent mon expertise croissante en analyse de don
 
 **Actions menées :**
 
-- Analyse de 500 000 transactions issues du dataset Online Retail.
+- Analyse de plus de 500 000 transactions issues du dataset Online Retail.
 - Identification des produits les plus vendus, des périodes de forte demande, et segmentation des clients en fonction de leur chiffre d’affaires.
 - Calcul du taux de retour des produits (9%) et recommandations pour réduire les anomalies.
 - Automatisation des KPIs clés avec SQL et visualisation des résultats sur Power BI.
