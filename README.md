@@ -2,11 +2,13 @@
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, a **Data Analyst** with a background in **customer success** at an agricultural e-commerce company. I’ve used data to improve customer satisfaction, enhance the user experience, and drive growth. Now, I’m looking to transition into a full-time data analyst role.
+Hi, I’m Manal JEWA, a **Data Analyst** with a strong background in customer insights and business intelligence.
 
-I recently completed the Data Analysis program at **DataScientest**, certified by **l’École des Mines de Paris**, where I learned the core tools and techniques of data analysis, including **SQL**, **Python**, and **data visualization** tools.
+With hands-on experience in the **agricultural e-commerce sector**, I have used data-driven strategies to enhance **customer satisfaction**, **optimize user experience**, and **drive revenue growth**. My role involved analyzing **purchasing behaviors**, monitoring **key performance indicators**, and leveraging data to improve operational efficiency.
 
-I’m excited to apply these skills in a dynamic business environment, where I can help organizations leverage data to improve decision-making and drive business success.
+I hold a Data Analysis certification from **DataScientest**, accredited by **l’École des Mines de Paris**, where I deepened my expertise in **SQL**, **Python**, **machine learning**, and **data visualization**. Combining technical proficiency with business acumen, I excel at translating complex datasets into actionable insights that support strategic decision-making.
+
+I’m eager to contribute my analytical skills to organizations looking to harness data for growth, efficiency, and competitive advantage.
 
 ## Key Skills & Technologies 💻
 
@@ -20,7 +22,7 @@ I’m excited to apply these skills in a dynamic business environment, where I c
 
 ## Data Projects 📊
 
-Here are some of the projects I’ve worked on that demonstrate my growing expertise in data analysis. These projects focus on data cleaning, analysis, and visualization, with an emphasis on delivering actionable insights.
+Here are some of the projects I’ve worked on that demonstrate my expertise in data analysis. These projects focus on data cleaning, analysis, and visualization, with an emphasis on delivering actionable insights.
 
 ### 1. Marketing Campaign Success Prediction - February 2025
 
@@ -83,24 +85,24 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 - Applied Random Forest for classification, merging rating categories to manage class imbalance.
 - Evaluated model performance and analyzed misclassification patterns.
 
-Technologies Used: Python, SQL, Scikit-Learn, Matplotlib, Seaborn
+**Technologies Used:** Python, SQL, Scikit-Learn, Matplotlib, Seaborn
 
 🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Analyse-des-avis-clients-sur-un-site-de-e-commerce)**
 
 ## What’s Next in My Learning Journey? 🚀
 
-I am committed to building my data analyst skill set, and here are some areas I’m focusing on:
+I am dedicated to continuously expanding my data analytics expertise, with a strong focus on the following areas:
 
-- **SQL Mastery**: Deepening my understanding of advanced SQL techniques for querying large datasets and optimizing queries.
-- **Advanced Data Visualization**: Becoming proficient in **Tableau** and **Power BI** to create more sophisticated and interactive dashboards.
-- **Machine Learning**: Learning to apply machine learning models to real-world datasets to create predictive models.
-- **Data Storytelling**: Improving my ability to tell compelling stories with data, ensuring that the insights I uncover are accessible and actionable for stakeholders.
+- **SQL Mastery**: Enhancing my skills in advanced SQL techniques, including query optimization, complex joins, and window functions for efficient data analysis.
+- **Advanced Data Visualization**: Developing expertise in Tableau and Power BI to create dynamic, interactive dashboards that drive decision-making.
+- **Machine Learning Applications**: Applying predictive modeling and classification techniques to real-world datasets to extract deeper insights.
+- **Data Storytelling**: Refining my ability to communicate data-driven insights clearly and effectively, ensuring stakeholders can take meaningful action.
 
 ## Why I’m a Great Fit for Your Team 🤝
 
-- **Customer-Focused Analytical Expertise**: With my background in **customer success**, I understand the importance of driving customer-centric decisions through data.
-- **Quick Learner**: My training at **DataScientest** and practical project work have helped me rapidly acquire the core skills of data analysis, and I’m always looking for ways to improve.
-- **Passion for Data**: I’m eager to bring my analytical skills to a role in **digital marketing**, **e-commerce**, **finance**, or other data-driven fields, where I can  help organizations use data to make better decisions and grow.
+- **Customer-Driven Data Expertise**: With a strong foundation in customer insights and business intelligence, I leverage data to enhance user experience, optimize strategies, and drive growth.
+- **Proven Analytical Skills**: My experience, combined with advanced training at DataScientest, has equipped me with expertise in SQL, Python, and data visualization, allowing me to transform complex datasets into actionable insights.
+- **Strategic and Impact-Driven**: Passionate about data, I thrive in digital marketing, e-commerce, finance, and other data-driven industries, where I can help businesses make informed decisions and gain a competitive edge.
 
 ## Contact Me 📩
 
@@ -116,4 +118,9 @@ I would love to discuss how I can contribute to your organization’s data needs
 
 ## Thank You!
 
-Thank you for visiting my portfolio. I’m excited to continue learning and growing in the field of data analysis. Please don’t hesitate to get in touch for potential opportunities, feedback, or collaborations.
+Thank you for visiting my portfolio! I’m always eager to learn, grow, and take on new challenges in the field of data analysis. Feel free to reach out for potential opportunities, collaborations, or to exchange insights. Looking forward to connecting!
+
+
+
+
+
