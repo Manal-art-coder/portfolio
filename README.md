@@ -4,11 +4,11 @@
 
 Hi, I’m Manal JEWA, a **Data Analyst** with a strong background in customer insights and business intelligence.
 
-With hands-on experience in the **agricultural e-commerce sector**, I have used data-driven strategies to enhance **customer satisfaction**, **optimize user experience**, and **drive revenue growth**. My role involved analyzing **purchasing behaviors**, monitoring **key performance indicators**, and leveraging data to improve operational efficiency.
+With hands-on experience in the **agricultural e-commerce sector**, I have used data-driven strategies to enhance **customer satisfaction**, **optimize user experience**, and drive revenue growth. My role involved analyzing **purchasing behaviors**, monitoring **key performance indicators**, and **leveraging data** to improve operational efficiency.
 
 I hold a Data Analysis certification from **DataScientest**, accredited by **l’École des Mines de Paris**, where I deepened my expertise in **SQL**, **Python**, **machine learning**, and **data visualization**. Combining technical proficiency with business acumen, I excel at translating complex datasets into actionable insights that support strategic decision-making.
 
-I’m eager to contribute my analytical skills to organizations looking to harness data for growth, efficiency, and competitive advantage.
+I’m eager to contribute my **analytical** skills to organizations looking to harness data for growth, efficiency, and competitive advantage.
 
 ## Key Skills & Technologies 💻
 
