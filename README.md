@@ -22,7 +22,7 @@ I’m excited to apply these skills in a dynamic business environment, where I c
 
 Here are some of the projects I’ve worked on that demonstrate my growing expertise in data analysis. These projects focus on data cleaning, analysis, and visualization, with an emphasis on delivering actionable insights.
 
-### 1. Marketing Campaign Success Prediction – (Data Scientest Training) - February 2025
+### 1. Marketing Campaign Success Prediction - February 2025
 
 **Objective:** Develop a predictive model to anticipate whether a customer will respond positively to a marketing campaign.
 
@@ -40,7 +40,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ---
 
-### 2. Sales Trends and Customer Behavior Analysis – (Personal Project) - February 2025
+### 2. Sales Trends and Customer Behavior Analysis – February 2025
 
 **Objective:** Analyze sales performance for an e-commerce company using SQL to extract key insights about orders, customers, and products.
 
@@ -56,7 +56,7 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ---
 
-### 3. Call Center Performance Analysis with Power BI - (Data Scientest Training) - January 2025
+### 3. Call Center Performance Analysis with Power BI - January 2025
 
 **Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency.
 
@@ -71,20 +71,21 @@ Here are some of the projects I’ve worked on that demonstrate my growing exper
 
 ---
 
-### 4. Customer Reviews Analysis - (Personal Project) (In Progress)
+### 4. Customer Reviews Analysis 
 
-**Objective:** This modeling project aims to identify the factors that can be optimized to improve product ratings on an e-commerce platform. This will ultimately attract more customers and enhance sales.
+**Objective**: This project aims to predict customer ratings for e-commerce orders and analyze key factors influencing customer satisfaction. By understanding these factors, businesses can enhance the user experience and drive sales growth.
 
-**Actions:**
-- Extract and understand the data thoroughly.
-- Create clear and insightful data visualizations.
-- Enrich the dataset with additional variables.
-- Model the problem using appropriate algorithms.
-- Test and evaluate the model's performance.
+**Actions**:
 
-**Technologies Used:** Python, Scikit-Learn, Matplotlib, Seaborn
+- Extracted and processed relational data using SQL.
+- Conducted exploratory data analysis and visualized key trends.
+- Engineered new features, including delivery duration and historical review metrics.
+- Applied Random Forest for classification, merging rating categories to manage class imbalance.
+- Evaluated model performance and analyzed misclassification patterns.
 
-🔗 **[Link to the project on GitHub (Coming soon)](#)**
+Technologies Used: Python, SQL, Scikit-Learn, Matplotlib, Seaborn
+
+🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Analyse-des-avis-clients-sur-un-site-de-e-commerce)**
 
 ## What’s Next in My Learning Journey? 🚀
 
