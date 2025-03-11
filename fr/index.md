@@ -9,7 +9,7 @@ title: "Bienvenue sur mon Portfolio"
 
 Bonjour, je suis Manal JEWA, **Data Analyst**, avec une expérience en analyse client et business intelligence dans le secteur de l'e-commerce agricole, où j'ai utilisé des stratégies basées sur les données pour améliorer la satisfaction client, optimiser l'expérience utilisateur et stimuler la croissance des revenus.
 
-Je suis diplômé en **Data Analysis** de DataScientest, accrédité par **l’École des Mines de Paris**, où j'ai appris à maîtriser SQL, Python, machine learning et la visualisation de données. J'aime transformer des données complexes en informations claires qui aident à prendre des décisions stratégiques.
+Je suis diplômée en **Data Analysis** de DataScientest, certifié par **l’École des Mines de Paris**, où j'ai appris à maîtriser SQL, Python, machine learning et la visualisation de données. J'aime transformer des données complexes en informations claires qui aident à prendre des décisions stratégiques.
 
 Je souhaite mettre mes compétences en **analyse de données** au service d'organisations qui cherchent à se développer et à gagner en efficacité.
 
@@ -27,7 +27,7 @@ Je souhaite mettre mes compétences en **analyse de données** au service d'orga
 
 Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertise en analyse de données. Ces projets se concentrent sur le nettoyage des données, l'analyse et la visualisation, avec un accent sur la fourniture d'informations exploitables.
 
-### 1. Prédiction du succès d’une campagne marketing – (Formation DataScientest) – Février 2025
+### 1. Prédiction du succès d’une campagne marketing – Formation DataScientest – Février 2025
 
 **Objectif** : Développer un modèle prédictif permettant d’anticiper si un client répondra positivement à une campagne marketing.
 
@@ -46,7 +46,7 @@ Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertis
 
 ---
 
-### 2. Analyse des performances d’un centre d’appels avec Power BI – (Formation DataScientest) – Janvier 2025
+### 2. Analyse des performances d’un centre d’appels avec Power BI – Formation DataScientest – Janvier 2025
 
 **Objectif** : Évaluer la performance d’un centre d’appels en utilisant Power BI, avec un focus sur la qualité du service client, l’évolution des revenus et l’efficacité des employés.
 
@@ -62,7 +62,7 @@ Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertis
 
 ---
 
-### 3. Analyse des avis clients - (Formation DataScientest) - Décembre 2024
+### 3. Analyse des avis clients - Formation DataScientest - Décembre 2024
    
 **Objectif** : Ce projet vise à prédire les évaluations des clients pour les commandes e-commerce et à analyser les facteurs clés influençant la satisfaction client. En comprenant ces facteurs, les entreprises peuvent améliorer l'expérience utilisateur et stimuler la croissance des ventes.
 
@@ -76,7 +76,7 @@ Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertis
 
 **Technologies utilisées** : Python, SQL, Scikit-Learn, Matplotlib, Seaborn
 
-🔗 **[Lien vers le projet sur GitHub (bientôt disponible)]**
+🔗 **[Lien vers le projet sur GitHub](https://github.com/Manal-art-coder/Analyse-des-avis-clients-sur-un-site-de-e-commerce)**
 
 
 ### 4. Analyse des tendances de vente et du comportement client – (Projet personnel) – Décembre 2024
