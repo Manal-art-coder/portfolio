@@ -24,7 +24,7 @@ I’m eager to contribute my **analytical** skills to organizations looking to h
 
 Here are some of the projects I’ve worked on that demonstrate my expertise in data analysis. These projects focus on data cleaning, analysis, and visualization, with an emphasis on delivering actionable insights.
 
-### 1. Marketing Campaign Success Prediction - February 2025
+### 1. Marketing Campaign Success Prediction - (Data Scientest) - February 2025
 
 **Objective:** Develop a predictive model to anticipate whether a customer will respond positively to a marketing campaign.
 
@@ -42,23 +42,7 @@ Here are some of the projects I’ve worked on that demonstrate my expertise in 
 
 ---
 
-### 2. Sales Trends and Customer Behavior Analysis – February 2025
-
-**Objective:** Analyze sales performance for an e-commerce company using SQL to extract key insights about orders, customers, and products.
-
-**Actions:**
-- Analyzed over 500,000 transactions from the Online Retail dataset.
-- Identified top-selling products, periods of high demand, and segmented customers based on their revenue.
-- Calculated product return rate (9%) and recommended actions to reduce anomalies.
-- Automated key performance indicators (KPIs) using SQL and visualized the results in Power BI.
-
-**Technologies Used:** SQL, Power BI
-
-🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
-
----
-
-### 3. Call Center Performance Analysis with Power BI - January 2025
+### 2. Call Center Performance Analysis with Power BI - (Data Scientest)- January 2025
 
 **Objective:** In this project, I analyzed the performance of a call center using Power BI. I focused on key areas such as customer service performance, revenue trends, and employee efficiency.
 
@@ -73,7 +57,7 @@ Here are some of the projects I’ve worked on that demonstrate my expertise in 
 
 ---
 
-### 4. Customer Reviews Analysis - January 2025
+### 3. Customer Reviews Analysis - (Data Scientest)- January 2025
 
 **Objective**: This project aims to predict customer ratings for e-commerce orders and analyze key factors influencing customer satisfaction. By understanding these factors, businesses can enhance the user experience and drive sales growth.
 
@@ -88,6 +72,22 @@ Here are some of the projects I’ve worked on that demonstrate my expertise in 
 **Technologies Used:** Python, SQL, Scikit-Learn, Matplotlib, Seaborn
 
 🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Analyse-des-avis-clients-sur-un-site-de-e-commerce)**
+
+---
+
+### 4. Sales Trends and Customer Behavior Analysis – (Personal Project) - February 2025
+
+**Objective:** Analyze sales performance for an e-commerce company using SQL to extract key insights about orders, customers, and products.
+
+**Actions:**
+- Analyzed over 500,000 transactions from the Online Retail dataset.
+- Identified top-selling products, periods of high demand, and segmented customers based on their revenue.
+- Calculated product return rate (9%) and recommended actions to reduce anomalies.
+- Automated key performance indicators (KPIs) using SQL and visualized the results in Power BI.
+
+**Technologies Used:** SQL, Power BI
+
+🔗 **[Link to the project on GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
 
 ## What’s Next in My Learning Journey? 🚀
 
