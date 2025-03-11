@@ -7,11 +7,13 @@ title: "Bienvenue sur mon Portfolio"
 
 ## À propos de moi 🙂
 
-Bonjour, je suis Manal JEWA, **Data Analyst** avec une expérience en **Customer Success** dans une entreprise d’e-commerce agricole. J’ai utilisé les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et stimuler la croissance. Aujourd’hui, je cherche à évoluer vers un poste de Data Analyst à plein temps.
+Bonjour, je suis Manal JEWA **Data Analyst** avec une expérience en analyse client et business intelligence.
 
-J’ai récemment complété la formation de Data Analyst chez DataScientest, certifiée par l’École des Mines de Paris, où j’ai appris les outils et techniques essentiels de l’analyse de données, notamment **SQL**, **Python** et les outils de **visualisation de données**.
+Avec une expérience pratique dans le secteur de l'**e-commerce agricole**, j'ai utilisé des stratégies basées sur les données pour améliorer la **satisfaction client**, optimiser l'expérience utilisateur et stimuler la **croissance des revenus**.
 
-Je suis enthousiaste à l’idée d’appliquer ces compétences dans un environnement dynamique, afin d’aider les entreprises à exploiter les données pour optimiser leur prise de décision et assurer leur succès.
+Je suis diplômé en **Data Analysis** de DataScientest, accrédité par **l’École des Mines de Paris**, où j'ai appris à maîtriser SQL, Python, machine learning et la visualisation de données. J'aime transformer des données complexes en informations claires qui aident à prendre des décisions stratégiques.
+
+Je souhaite mettre mes compétences en **analyse de données** au service d'organisations qui cherchent à se développer et à gagner en efficacité.
 
 ## Compétences clés & Technologies 💻
 
