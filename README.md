@@ -57,7 +57,7 @@ Here are some of the projects I’ve worked on that demonstrate my expertise in 
 
 ---
 
-### 3. Customer Reviews Analysis - (Data Scientest)- January 2025
+### 3. Customer Reviews Analysis - (Data Scientest)- December 2024
 
 **Objective**: This project aims to predict customer ratings for e-commerce orders and analyze key factors influencing customer satisfaction. By understanding these factors, businesses can enhance the user experience and drive sales growth.
 
@@ -75,7 +75,7 @@ Here are some of the projects I’ve worked on that demonstrate my expertise in 
 
 ---
 
-### 4. Sales Trends and Customer Behavior Analysis – (Personal Project) - February 2025
+### 4. Sales Trends and Customer Behavior Analysis – (Personal Project) - December 2024
 
 **Objective:** Analyze sales performance for an e-commerce company using SQL to extract key insights about orders, customers, and products.
 
