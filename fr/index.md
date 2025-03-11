@@ -46,25 +46,7 @@ Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertis
 
 ---
 
-
-### 2. Analyse des tendances de vente et du comportement client – (Projet personnel) – Février 2025
-
-**Objectif** : Analyser la performance commerciale d’une entreprise d’e-commerce à l’aide de SQL pour extraire des insights clés sur les commandes, les clients et les produits.
-
-**Actions menées :**
-
-- Analyse de plus de 500 000 transactions issues du dataset Online Retail.
-- Identification des produits les plus vendus, des périodes de forte demande, et segmentation des clients en fonction de leur chiffre d’affaires.
-- Calcul du taux de retour des produits (9%) et recommandations pour réduire les anomalies.
-- Automatisation des KPIs clés avec SQL et visualisation des résultats sur Power BI.
-
-**Technologies utilisées** : SQL, Power BI
-
-🔗 **[Lien vers le projet sur GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
-
----
-
-### 3. Analyse des performances d’un centre d’appels avec Power BI – (Formation DataScientest) – Janvier 2025
+### 2. Analyse des performances d’un centre d’appels avec Power BI – (Formation DataScientest) – Janvier 2025
 
 **Objectif** : Évaluer la performance d’un centre d’appels en utilisant Power BI, avec un focus sur la qualité du service client, l’évolution des revenus et l’efficacité des employés.
 
@@ -80,7 +62,7 @@ Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertis
 
 ---
 
-### 4. Analyse des avis clients - Janvier 2025
+### 3. Analyse des avis clients - (Formation DataScientest) - Décembre 2024
    
 **Objectif** : Ce projet vise à prédire les évaluations des clients pour les commandes e-commerce et à analyser les facteurs clés influençant la satisfaction client. En comprenant ces facteurs, les entreprises peuvent améliorer l'expérience utilisateur et stimuler la croissance des ventes.
 
@@ -95,6 +77,22 @@ Voici quelques projets sur lesquels j'ai travaillé et qui montrent mon expertis
 **Technologies utilisées** : Python, SQL, Scikit-Learn, Matplotlib, Seaborn
 
 🔗 **[Lien vers le projet sur GitHub (bientôt disponible)]**
+
+
+### 4. Analyse des tendances de vente et du comportement client – (Projet personnel) – Décembre 2024
+
+**Objectif** : Analyser la performance commerciale d’une entreprise d’e-commerce à l’aide de SQL pour extraire des insights clés sur les commandes, les clients et les produits.
+
+**Actions menées :**
+
+- Analyse de plus de 500 000 transactions issues du dataset Online Retail.
+- Identification des produits les plus vendus, des périodes de forte demande, et segmentation des clients en fonction de leur chiffre d’affaires.
+- Calcul du taux de retour des produits (9%) et recommandations pour réduire les anomalies.
+- Automatisation des KPIs clés avec SQL et visualisation des résultats sur Power BI.
+
+**Technologies utilisées** : SQL, Power BI
+
+🔗 **[Lien vers le projet sur GitHub](https://github.com/Manal-art-coder/Online-retail-Project)**
 
 ## Prochaines étapes dans mon apprentissage 🚀
 
