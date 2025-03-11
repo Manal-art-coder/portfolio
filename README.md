@@ -73,7 +73,7 @@ Here are some of the projects I’ve worked on that demonstrate my expertise in 
 
 ---
 
-### 4. Customer Reviews Analysis 
+### 4. Customer Reviews Analysis - January 2025
 
 **Objective**: This project aims to predict customer ratings for e-commerce orders and analyze key factors influencing customer satisfaction. By understanding these factors, businesses can enhance the user experience and drive sales growth.
 
