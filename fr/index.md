@@ -9,7 +9,7 @@ title: "Bienvenue sur mon Portfolio"
 
 Bonjour, Je suis Manal JEWA, une professionnelle du **Customer Success** avec une forte approche **data-driven**, élargissant désormais mon expertise à **l’analyse de données**.
 
-Grâce à mon expérience dans le e-commerce agricole, j’ai exploité les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et accroître l’efficacité opérationnelle. J’ai analysé les comportements d’achat, suivi les indicateurs clés de performance et utilisé ces insights pour affiner les stratégies commerciales.
+Grâce à mon expérience dans le **e-commerce agricole**, j’ai exploité **les données** pour améliorer **la satisfaction client**, optimiser l’expérience utilisateur et accroître **l’efficacité opérationnelle**. J’ai analysé les comportements d’achat, suivi **les indicateurs clés de performance** et utilisé ces insights pour affiner les stratégies **commerciales**.
 
 Pour approfondir mes compétences techniques, j’ai suivi une formation en **Data Analysis** chez DataScientest, accréditée par **l’École des Mines de Paris**, où j’ai développé une expertise en **SQL**, **Python**, **machine learning** et **data visualisation**. Ma force réside dans ma capacité à faire le lien entre **les besoins métiers** et **les insights data**, permettant aux entreprises de prendre des décisions stratégiques éclairées.
 
