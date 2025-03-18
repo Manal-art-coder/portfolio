@@ -7,11 +7,15 @@ title: "Bienvenue sur mon Portfolio"
 
 ## À propos de moi 🙂
 
-Bonjour, je suis Manal JEWA, **Data Analyst**, avec une expérience en analyse client et business intelligence dans le secteur de l'e-commerce agricole, où j'ai utilisé des stratégies basées sur les données pour améliorer la satisfaction client, optimiser l'expérience utilisateur et stimuler la croissance des revenus.
+Bonjour, Je suis Manal JEWA, une professionnelle du **Customer Success** avec une forte approche **data-driven**, élargissant désormais mon expertise à **l’analyse de données**.
 
-Je suis diplômée en **Data Analysis** de DataScientest, certifié par **l’École des Mines de Paris**, où j'ai appris à maîtriser SQL, Python, machine learning et la visualisation de données. J'aime transformer des données complexes en informations claires qui aident à prendre des décisions stratégiques.
+Grâce à mon expérience dans le e-commerce agricole, j’ai exploité les données pour améliorer la satisfaction client, optimiser l’expérience utilisateur et accroître l’efficacité opérationnelle. J’ai analysé les comportements d’achat, suivi les indicateurs clés de performance et utilisé ces insights pour affiner les stratégies commerciales.
 
-Je souhaite mettre mes compétences en **analyse de données** au service d'organisations qui cherchent à se développer et à gagner en efficacité.
+Pour approfondir mes compétences techniques, j’ai suivi une formation en **Data Analysis** chez DataScientest, accréditée par **l’École des Mines de Paris**, où j’ai développé une expertise en **SQL**, **Python**, **machine learning** et **data visualisation**. Ma force réside dans ma capacité à faire le lien entre **les besoins métiers** et **les insights data**, permettant aux entreprises de prendre des décisions stratégiques éclairées.
+
+Je suis à la recherche d’une opportunité en tant que Data Analyst ou Customer Success Manager Data-Driven, où je pourrai allier analyse de données et relation client pour favoriser la croissance et l’efficacité des entreprises.
+
+Échangeons ! 🚀
 
 ## Compétences clés & Technologies 💻
 
