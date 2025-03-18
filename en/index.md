@@ -8,7 +8,7 @@ title: "Welcome to My Portfolio"
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, a **customer success** professional with a strong **data-driven** mindset, now expanding my expertise into **data analytics**.
+Hi, I’m Manal JEWA, a **customer success** professional with a strong **data-driven** mindset, now expanding my expertise into **data analysis**.
 
 With hands-on experience in the **agricultural e-commerce** sector, I have leveraged data to enhance customer satisfaction, optimize user experience, and improve operational efficiency. My role involved analyzing purchasing behaviors, monitoring **key performance indicators**, and using insights to refine business strategies.
 
