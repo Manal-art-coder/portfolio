@@ -1,14 +1,16 @@
-# Welcome to my Data Analyst portfolio!
+# Welcome to my Data-Driven Portfolio!
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, a **Data Analyst** with a strong background in customer insights and business intelligence.
+Hi, I’m Manal JEWA, a **customer success** professional with a strong **data-driven** mindset, now expanding my expertise into **data analytics**.
 
-With hands-on experience in the **agricultural e-commerce sector**, I have used data-driven strategies to enhance **customer satisfaction**, **optimize user experience**, and drive revenue growth. My role involved analyzing **purchasing behaviors**, monitoring **key performance indicators**, and **leveraging data** to improve operational efficiency.
+With hands-on experience in the **agricultural e-commerce** sector, I have leveraged data to enhance customer satisfaction, optimize user experience, and improve operational efficiency. My role involved analyzing purchasing behaviors, monitoring **key performance indicators**, and using insights to refine business strategies.
 
-I hold a Data Analysis certification from **DataScientest**, accredited by **l’École des Mines de Paris**, where I deepened my expertise in **SQL**, **Python**, **machine learning**, and **data visualization**. Combining technical proficiency with business acumen, I excel at translating complex datasets into actionable insights that support strategic decision-making.
+To deepen my technical skills, I completed a **Data Analysis certification** at DataScientest, accredited by **l’École des Mines de Paris**, where I gained expertise in **SQL**, **Python**, **machine learning**, and **data visualization**. My strength lies in bridging the gap between **business needs** and **data insights**, ensuring that companies make informed, strategic decisions.
 
-I’m eager to contribute my **analytical** skills to organizations looking to harness data for growth, efficiency, and competitive advantage.
+I’m now looking for opportunities as a **Data Analyst** or a **Data-Driven Customer Success Manager**, where I can combine my analytical skills with my experience in customer relations to drive growth, efficiency, and competitive advantage.
+
+Let’s connect! 🚀.
 
 ## Key Skills & Technologies 💻
 
@@ -118,7 +120,14 @@ I would love to discuss how I can contribute to your organization’s data needs
 
 ## Thank You!
 
-Thank you for visiting my portfolio! I’m always eager to learn, grow, and take on new challenges in the field of data analysis. Feel free to reach out for potential opportunities, collaborations, or to exchange insights. Looking forward to connecting!
+Thank you for visiting my portfolio! I’m seeking opportunities in data analytics or customer success with a data-driven approach. Always eager to learn and tackle new challenges, I’d love to connect for potential opportunities, collaborations, or insightful discussions!
+
+
+
+
+
+
+
 
 
 
