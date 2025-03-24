@@ -2,13 +2,13 @@
 
 ## About Me 🙂
 
-Hi, I’m Manal JEWA, a **customer success** professional with a strong **data-driven** mindset, now expanding my expertise into **data analysis**.
+Hi, I’m Manal JEWA, a **customer success** professional with a strong **data-driven** mindset, leveraging my expertise in **data analysis** to drive **business insights** and process optimization.
 
 With hands-on experience in the **agricultural e-commerce** sector, I have leveraged data to enhance customer satisfaction, optimize user experience, and improve operational efficiency. My role involved analyzing purchasing behaviors, monitoring **key performance indicators**, and using insights to refine business strategies.
 
 To deepen my technical skills, I completed a **Data Analysis certification** at DataScientest, accredited by **l’École des Mines de Paris**, where I gained expertise in **SQL**, **Python**, **machine learning**, and **data visualization**. My strength lies in bridging the gap between **business needs** and **data insights**, ensuring that companies make informed, strategic decisions.
 
-I’m now looking for opportunities as a **Data Analyst** or a **Data-Driven Customer Success Manager**, where I can combine my analytical skills with my experience in customer relations to drive growth, efficiency, and competitive advantage.
+I’m looking for opportunities as a **Data Consultant**, **Data Analyst**, or **Customer Insights Analyst**, where I can leverage my **analytical skills** and **customer experience** to drive **business growth**, operational efficiency, and strategic decision-making.
 
 Let’s connect! 🚀.
 
