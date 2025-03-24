@@ -7,13 +7,13 @@ title: "Bienvenue sur mon Portfolio"
 
 ## À propos de moi 🙂
 
-Bonjour, Je suis Manal JEWA, une professionnelle du **Customer Success** avec une forte approche **data-driven**, élargissant désormais mon expertise à **l’analyse de données**.
+Bonjour, je suis Manal JEWA, une professionnelle du **Customer Success** avec un fort esprit data-driven, mettant à profit mon expertise en **analyse de données** pour générer des **insights business** et optimiser les processus.
 
-Grâce à mon expérience dans le **e-commerce agricole**, j’ai exploité **les données** pour améliorer **la satisfaction client**, optimiser l’expérience utilisateur et accroître **l’efficacité opérationnelle**. J’ai analysé les comportements d’achat, suivi **les indicateurs clés de performance** et utilisé ces insights pour affiner les stratégies **commerciales**.
+Grâce à une expérience concrète dans le secteur du **e-commerce agricole**, j’ai utilisé **la donnée** pour améliorer la **satisfaction client**, optimiser **l’expérience utilisateur** et renforcer **l’efficacité opérationnelle**. Mon rôle impliquait l’analyse des **comportements d’achat**, le suivi des **indicateurs clés de performance** et l’exploitation des **insights** pour affiner les stratégies commerciales.
 
-Pour approfondir mes compétences techniques, j’ai suivi une formation en **Data Analysis** chez DataScientest, accréditée par **l’École des Mines de Paris**, où j’ai développé une expertise en **SQL**, **Python**, **machine learning** et **data visualisation**. Ma force réside dans ma capacité à faire le lien entre **les besoins métiers** et **les insights data**, permettant aux entreprises de prendre des décisions stratégiques éclairées.
+Afin d’approfondir mes compétences techniques, j’ai suivi une formation en **Data Analyse** chez **DataScientest**, accréditée par **l’École des Mines de Paris**, où j’ai acquis une expertise en **SQL**, **Python**, **machine learning** et **data visualisation**. Ma force réside dans ma capacité à faire le lien entre les **besoins métier** et les **insights data**, permettant aux entreprises de prendre des décisions éclairées et stratégiques.
 
-Je suis à la recherche d’une opportunité en tant que Data Analyst ou Customer Success Manager Data-Driven, où je pourrai allier analyse de données et relation client pour favoriser la croissance et l’efficacité des entreprises.
+Je recherche des opportunités en tant que **Data Consultant**, **Data Analyst** ou **Customer Insights Analyst**, où je pourrai mettre à profit mes **compétences analytiques** et **mon expérience client** pour favoriser la croissance business, améliorer l’efficacité opérationnelle et appuyer la prise de décision stratégique.
 
 Échangeons ! 🚀
 
