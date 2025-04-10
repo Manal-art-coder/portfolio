@@ -1,4 +1,4 @@
-# Welcome to my Data-Driven Portfolio!
+# Welcome to my Portfolio!
 
 ## About Me 🙂
 
@@ -8,8 +8,7 @@ With hands-on experience in the **agricultural e-commerce** sector, I have lever
 
 To deepen my technical skills, I completed a **Data Analysis certification** at DataScientest, accredited by **l’École des Mines de Paris**, where I gained expertise in **SQL**, **Python**, **machine learning**, and **data visualization**. My strength lies in bridging the gap between **business needs** and **data insights**, ensuring that companies make informed, strategic decisions.
 
-I’m looking for opportunities as a **Data Consultant**, **Data Analyst**, or **Customer Insights Analyst**, where I can leverage my **analytical skills** and **customer experience** to drive **business growth**, operational efficiency, and strategic decision-making.
-
+I'm open to opportunities across **Data** and **Customer Success** domains — whether as a Business/Data Analyst, Customer Insights Analyst, or in a technical CSM role — where I can leverage both my analytical skills and customer-facing experience to support data-driven decisions and enhance the overall customer journey.
 Let’s connect! 🚀.
 
 ## Key Skills & Technologies 💻
