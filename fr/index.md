@@ -13,7 +13,7 @@ Grâce à une expérience concrète dans le secteur du **e-commerce agricole**, 
 
 Afin d’approfondir mes compétences techniques, j’ai suivi une formation en **Data Analyse** chez **DataScientest**, accréditée par **l’École des Mines de Paris**, où j’ai acquis une expertise en **SQL**, **Python**, **machine learning** et **data visualisation**. Ma force réside dans ma capacité à faire le lien entre les **besoins métier** et les **insights data**, permettant aux entreprises de prendre des décisions éclairées et stratégiques.
 
-Je recherche des opportunités en tant que **Data Consultant**, **Data Analyst** ou **Customer Insights Analyst**, où je pourrai mettre à profit mes **compétences analytiques** et **mon expérience client** pour favoriser la croissance business, améliorer l’efficacité opérationnelle et appuyer la prise de décision stratégique.
+Je suis ouverte à toute opportunité dans les domaines de la **data** ou du **Customer Success**, que ce soit en tant que Business/Data Analyst, Customer Insights Analyst ou dans un rôle de Customer Success Manager à dimension technique. Mon objectif est de valoriser à la fois mes compétences **analytiques** et mon **expérience client** pour contribuer à des prises de décision éclairées et à l’amélioration continue de l’expérience utilisateur.
 
 Échangeons ! 🚀
 
